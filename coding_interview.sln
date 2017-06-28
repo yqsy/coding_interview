@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_01_duplicate_in_array", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_02_duplicate_in_array_no_edit", "03_02_duplicate_in_array_no_edit\03_02_duplicate_in_array_no_edit.vcxproj", "{AA9D1811-0394-47A1-B00A-58CC03C8A827}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "my_duplicate_in_array", "my_duplicate_in_array\my_duplicate_in_array.vcxproj", "{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{AA9D1811-0394-47A1-B00A-58CC03C8A827}.Release|x64.Build.0 = Release|x64
 		{AA9D1811-0394-47A1-B00A-58CC03C8A827}.Release|x86.ActiveCfg = Release|Win32
 		{AA9D1811-0394-47A1-B00A-58CC03C8A827}.Release|x86.Build.0 = Release|Win32
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Debug|x64.ActiveCfg = Debug|x64
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Debug|x64.Build.0 = Debug|x64
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Debug|x86.Build.0 = Debug|Win32
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Release|x64.ActiveCfg = Release|x64
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Release|x64.Build.0 = Release|x64
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Release|x86.ActiveCfg = Release|Win32
+		{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
