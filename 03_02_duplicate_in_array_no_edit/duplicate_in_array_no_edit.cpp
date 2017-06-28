@@ -4,6 +4,8 @@
 // 数组。例如，如果输入长度为8的数组{2, 3, 5, 4, 3, 2, 6, 7}，那么对应的
 // 输出是重复的数字2或者3。
 
+// 时间:O(nlogn),空间:O(1),不修改数组
+
 #include <algorithm>
 #include <stdlib.h>
 #include <iostream>
