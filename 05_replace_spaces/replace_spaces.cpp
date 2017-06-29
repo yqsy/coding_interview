@@ -19,7 +19,9 @@ std::string MyReplaceAll(std::string str,
     return str;
 }
 
-std::string ReplaceBlank(const std::string& str, const std::string& to) {
+std::string ReplaceBlank(const char* str, const char* to) {
+
+
     return "";
 }
 
