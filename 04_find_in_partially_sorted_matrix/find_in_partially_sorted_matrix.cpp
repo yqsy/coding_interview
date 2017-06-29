@@ -1,6 +1,13 @@
 // 题目:二维数组中的查找
 // 时间:O(?),空间O(n)
 
+// 伪代码
+// 输入检查
+// 1. row_idx < rows.len && column_idx >= 0
+// 2. T == row[row_idx] return true
+// 3. T < row[row_idx] --column_idx, goto 1
+// 4. T > row[row_idx] ++row_idx, goto 1
+
 #include <algorithm>
 #include <stdlib.h>
 #include <iostream>
