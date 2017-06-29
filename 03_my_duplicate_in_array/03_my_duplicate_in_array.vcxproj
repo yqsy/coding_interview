@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{AC1B680C-8E15-4744-89E4-6FBBA0A11DF9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>my_duplicate_in_array</RootNamespace>
+    <RootNamespace>03_my_duplicate_in_array</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="my_duplicate_in_array.cpp" />
+    <ClCompile Include="03_my_duplicate_in_array.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

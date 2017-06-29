@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="my_duplicate_in_array.cpp">
+    <ClCompile Include="03_my_duplicate_in_array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
